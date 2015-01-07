@@ -1,5 +1,5 @@
 import java.util.*;
-
+//dog
 public void setup() {
 	String lines[] = loadStrings("words.txt");
 	System.out.println("There are " + lines.length + " lines.");
